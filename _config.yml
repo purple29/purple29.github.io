@@ -11,13 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-<<<<<<< HEAD
-# remote_theme           : "mmistakes/minimal-mistakes"
-
-remote_theme : mmistakes/minimal-mistakes
-=======
 remote_theme           : "mmistakes/minimal-mistakes"
->>>>>>> c144dc7cd6b75da5e9d3b084616ecc57bd23cb2e
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -25,11 +19,7 @@ locale                   : "en-US"
 title                    : "잠이 없어"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-<<<<<<< HEAD
 name                     : "PURPLE"
-=======
-name                     : "Your Name"
->>>>>>> c144dc7cd6b75da5e9d3b084616ecc57bd23cb2e
 description              : "An amazing website."
 url                      : "https://purple29.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -111,43 +101,22 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:purple29b@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/purple29"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-<<<<<<< HEAD
-=======
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
->>>>>>> c144dc7cd6b75da5e9d3b084616ecc57bd23cb2e
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/purple29"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
 
 
