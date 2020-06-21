@@ -146,12 +146,6 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-<<<<<<< HEAD
-=======
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
->>>>>>> c144dc7cd6b75da5e9d3b084616ecc57bd23cb2e
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
